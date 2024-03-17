@@ -1,2 +1,3 @@
-# 5201314
-initial commit
+software-cup
+for our contest
+
